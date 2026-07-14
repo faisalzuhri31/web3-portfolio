@@ -1,8 +1,8 @@
 # Web3 Portfolio - Faisal Zuhri
 
-![Banner](https://via.placeholder.com/1200x400?text=Web3+Todo+App)
+![Web3 Todo App](https://via.placeholder.com/1200x400/1e3a8a/ffffff?text=Web3+Todo+App+on+Sepolia)
 
-Proyek **Web3 Todo App** lengkap dengan Smart Contract yang saya buat selama belajar Web3 Development.
+Proyek **Web3 Todo App** lengkap dengan Smart Contract yang saya bangun selama belajar Web3 Development.
 
 ## ✨ Fitur Utama
 
@@ -15,15 +15,19 @@ Proyek **Web3 Todo App** lengkap dengan Smart Contract yang saya buat selama bel
 ## 🛠 Tech Stack
 
 - **Frontend**: Next.js 14, TypeScript, Tailwind CSS
-- **Web3**: Ethers.js v6, Solidity 0.8.24
+- **Web3**: Ethers.js v6, Solidity ^0.8.24
 - **Tools**: Remix IDE, MetaMask, Sepolia Testnet
 
 ## 🚀 Live Demo
 
-- **Main App**: [localhost:3000](http://localhost:3000) (jalankan lokal)
-- **Portfolio Page**: [/portfolio](http://localhost:3000/portfolio)
+- **Aplikasi Utama**: `http://localhost:3000`
+- **Portfolio Page**: `http://localhost:3000/portfolio`
 
-## Cara Menjalankan
+## 📸 Screenshot
+
+*(Tambahkan screenshot aplikasi di sini nanti)*
+
+## Cara Menjalankan Secara Lokal
 
 ```bash
 git clone https://github.com/khalifzayn/web3-portfolio.git
