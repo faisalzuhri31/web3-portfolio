@@ -1,33 +1,34 @@
 # Web3 Portfolio - Faisal Zuhri
 
-![Web3 Todo App](https://via.placeholder.com/1200x400/1e3a8a/ffffff?text=Web3+Todo+App+on+Sepolia)
+![Web3 Todo Banner](https://via.placeholder.com/1200x400/1e40af/ffffff?text=Web3+Todo+App+on+Sepolia)
 
 Proyek **Web3 Todo App** lengkap dengan Smart Contract yang saya bangun selama belajar Web3 Development.
 
 ## ✨ Fitur Utama
 
-- Connect MetaMask Wallet
-- Tambah & Toggle Todo langsung ke Blockchain (Sepolia Testnet)
-- Smart Contract Solidity
-- Portfolio Page modern
-- Full TypeScript + Next.js
+- 🔗 Connect MetaMask Wallet
+- ➕ Tambah Todo langsung ke Blockchain
+- 🔄 Toggle status selesai on-chain
+- 📡 Smart Contract Solidity
+- 🎨 Portfolio Page modern dengan Next.js
 
 ## 🛠 Tech Stack
 
 - **Frontend**: Next.js 14, TypeScript, Tailwind CSS
 - **Web3**: Ethers.js v6, Solidity ^0.8.24
-- **Tools**: Remix IDE, MetaMask, Sepolia Testnet
+- **Blockchain**: Sepolia Testnet
+- **Tools**: Remix IDE, MetaMask, Vercel
 
 ## 🚀 Live Demo
 
-- **Aplikasi Utama**: `http://localhost:3000`
-- **Portfolio Page**: `http://localhost:3000/portfolio`
+- **Aplikasi Utama**: [https://web3-portfolio-xi.vercel.app](https://web3-portfolio-xi.vercel.app)
+- **Portfolio Page**: [https://web3-portfolio-xi.vercel.app/portfolio](https://web3-portfolio-xi.vercel.app/portfolio)
 
 ## 📸 Screenshot
 
-*(Tambahkan screenshot aplikasi di sini nanti)*
+*(Tambahkan screenshot aplikasi Todo dan Portfolio di sini nanti)*
 
-## Cara Menjalankan Secara Lokal
+## Cara Menjalankan Lokal
 
 ```bash
 git clone https://github.com/khalifzayn/web3-portfolio.git
