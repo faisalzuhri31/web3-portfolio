@@ -31,7 +31,7 @@ Proyek **Web3 Todo App** lengkap dengan Smart Contract yang saya bangun selama b
 ## Cara Menjalankan Lokal
 
 ```bash
-git clone https://github.com/khalifzayn/web3-portfolio.git
+git clone https://github.com/faisalzuhri31/web3-portfolio.git
 cd web3-portfolio
 npm install
 npm run dev
