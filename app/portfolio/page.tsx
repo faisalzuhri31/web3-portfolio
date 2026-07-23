@@ -19,7 +19,7 @@ export default function Portfolio() {
           <p className="text-2xl text-blue-400 mb-4">Junior Web3 Developer</p>
           
           <div className="flex gap-6 text-3xl mt-4">
-            <a href="https://github.com/khalifzayn" target="_blank" className="hover:text-gray-400 transition">
+            <a href="https://github.com/faisalzuhri31" target="_blank" className="hover:text-gray-400 transition">
               🐙
             </a>
             <a href="https://www.linkedin.com/in/faisal-zuhri-2a6a56210" target="_blank" className="hover:text-gray-400 transition">
@@ -59,7 +59,7 @@ export default function Portfolio() {
             <a href="/" className="bg-white text-black px-8 py-4 rounded-2xl font-medium hover:bg-gray-200 transition">
               Lihat Demo App
             </a>
-            <a href="https://github.com/khalifzayn/web3-todo-app" 
+            <a href="https://github.com/faisalzuhri31/web3-todo-app" 
                target="_blank" 
                className="border border-gray-600 px-8 py-4 rounded-2xl font-medium hover:bg-gray-800 transition">
               Source Code
